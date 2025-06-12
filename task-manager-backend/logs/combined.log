@@ -7,3 +7,116 @@
 2025-06-12 02:25:42 [INFO]: Server running on port 8080
 2025-06-12 02:25:55 [INFO]: Fetched all tasks successfully
 2025-06-12 02:27:04 [INFO]: Server running on port 8080
+2025-06-12 02:33:27 [INFO]: Server running on port 8080
+2025-06-12 02:33:47 [INFO]: Fetched all tasks successfully
+2025-06-12 02:34:19 [INFO]: Fetched all tasks successfully
+2025-06-12 02:34:42 [INFO]: Fetched all tasks successfully
+2025-06-12 02:35:55 [INFO]: Fetched all tasks successfully
+2025-06-12 02:37:20 [INFO]: Fetched all tasks successfully
+2025-06-12 02:38:51 [INFO]: Fetched all tasks successfully
+2025-06-12 02:39:51 [INFO]: Server running on port 8080
+2025-06-12 02:39:51 [INFO]: Server running on port 8080
+2025-06-12 02:39:56 [INFO]: Fetched all tasks successfully
+2025-06-12 02:40:38 [INFO]: Fetched all tasks successfully
+2025-06-12 02:40:43 [INFO]: Fetched all tasks successfully
+2025-06-12 02:42:28 [INFO]: Fetched all tasks successfully
+2025-06-12 02:42:31 [INFO]: Fetched all tasks successfully
+2025-06-12 02:42:34 [INFO]: Deleted task with ID: 684a2c5789d53b66760a40ed
+2025-06-12 02:42:36 [INFO]: Deleted task with ID: 684a2c5789d53b66760a40ee
+2025-06-12 02:43:35 [INFO]: Created a new task successfully
+2025-06-12 02:43:40 [INFO]: Created a new task successfully
+2025-06-12 02:43:46 [INFO]: Created a new task successfully
+2025-06-12 02:43:56 [INFO]: Fetched all tasks successfully
+2025-06-12 02:46:20 [INFO]: Fetched all tasks successfully
+2025-06-12 02:46:53 [INFO]: Created a new task successfully
+2025-06-12 02:48:45 [INFO]: Created a new task successfully
+2025-06-12 02:51:20 [INFO]: Fetched all tasks successfully
+2025-06-12 02:53:23 [INFO]: Updated task with ID: 684a2c5789d53b66760a40ec
+2025-06-12 02:54:01 [INFO]: Fetched all tasks successfully
+2025-06-12 02:55:41 [INFO]: Fetched all tasks successfully
+2025-06-12 02:55:46 [INFO]: Created a new task successfully
+2025-06-12 02:55:54 [INFO]: Updated task with ID: 684a33a22ec354254ba89566
+2025-06-12 02:56:34 [INFO]: Fetched all tasks successfully
+2025-06-12 02:57:42 [INFO]: Server running on port 8080
+2025-06-12 02:57:42 [INFO]: Server running on port 8080
+2025-06-12 02:58:18 [INFO]: Server running on port 8080
+2025-06-12 02:58:18 [INFO]: Server running on port 8080
+2025-06-12 02:58:19 [INFO]: Fetched all tasks successfully
+2025-06-12 02:58:23 [INFO]: Created a new task successfully
+2025-06-12 02:58:31 [INFO]: Updated task with ID: 684a343fcb5906357d6146ee
+2025-06-12 02:58:40 [INFO]: Server running on port 8080
+2025-06-12 02:58:40 [INFO]: Server running on port 8080
+2025-06-12 02:59:08 [INFO]: Server running on port 8080
+2025-06-12 02:59:08 [INFO]: Server running on port 8080
+2025-06-12 02:59:16 [INFO]: Created a new task successfully
+2025-06-12 02:59:28 [INFO]: Fetched all tasks successfully
+2025-06-12 02:59:51 [INFO]: Fetched all tasks successfully
+2025-06-12 03:00:38 [INFO]: Connected to MongoDB Atlas
+2025-06-12 03:00:38 [INFO]: Cleared existing tasks
+2025-06-12 03:00:38 [INFO]: Seed data inserted successfully
+2025-06-12 03:00:38 [INFO]: Database connection closed
+2025-06-12 03:00:46 [INFO]: Connected to MongoDB Atlas
+2025-06-12 03:00:46 [INFO]: Cleared existing tasks
+2025-06-12 03:00:46 [INFO]: Seed data inserted successfully
+2025-06-12 03:00:46 [INFO]: Database connection closed
+2025-06-12 03:00:56 [INFO]: Fetched all tasks successfully
+2025-06-12 03:01:03 [INFO]: Connected to MongoDB Atlas
+2025-06-12 03:01:03 [INFO]: Cleared existing tasks
+2025-06-12 03:01:04 [INFO]: Seed data inserted successfully
+2025-06-12 03:01:04 [INFO]: Database connection closed
+2025-06-12 03:01:06 [INFO]: Server running on port 8080
+2025-06-12 03:04:15 [INFO]: Fetched all tasks successfully
+2025-06-12 03:04:21 [INFO]: Fetched all tasks successfully
+2025-06-12 03:04:46 [INFO]: Server running on port 8080
+2025-06-12 03:04:57 [INFO]: Fetched all tasks successfully
+2025-06-12 03:04:58 [INFO]: Fetched all tasks successfully
+2025-06-12 03:05:31 [INFO]: Fetched all tasks successfully
+2025-06-12 03:05:31 [INFO]: Fetched all tasks successfully
+2025-06-12 03:05:39 [INFO]: Fetched all tasks successfully
+2025-06-12 03:07:39 [INFO]: Fetched all tasks successfully
+2025-06-12 03:14:00 [INFO]: Fetched all tasks successfully
+2025-06-12 03:28:22 [INFO]: Fetched all tasks successfully
+2025-06-12 03:29:21 [INFO]: Fetched all tasks successfully
+2025-06-12 03:29:26 [INFO]: Deleted task with ID: 684a34e00d970b70db9c3ffa
+2025-06-12 03:29:36 [INFO]: Created a new task successfully
+2025-06-12 03:29:42 [INFO]: Updated task with ID: 684a3b90ccd3bfe415dca4de
+2025-06-12 03:29:44 [INFO]: Updated task with ID: 684a3b90ccd3bfe415dca4de
+2025-06-12 03:32:29 [INFO]: Updated task with ID: 684a3b90ccd3bfe415dca4de
+2025-06-12 03:56:02 [INFO]: Fetched all tasks successfully
+2025-06-12 03:56:18 [INFO]: Fetched all tasks successfully
+2025-06-12 03:56:25 [INFO]: Fetched all tasks successfully
+2025-06-12 03:56:25 [INFO]: Fetched all tasks successfully
+2025-06-12 03:57:32 [INFO]: Fetched all tasks successfully
+2025-06-12 03:57:33 [INFO]: Fetched all tasks successfully
+2025-06-12 03:58:38 [INFO]: Fetched all tasks successfully
+2025-06-12 04:02:03 [INFO]: Fetched all tasks successfully
+2025-06-12 04:27:08 [INFO]: Fetched all tasks successfully
+2025-06-12 04:30:19 [INFO]: Fetched all tasks successfully
+2025-06-12 04:42:23 [INFO]: Updated task with ID: 684a34df0d970b70db9c3ff9
+2025-06-12 04:47:18 [INFO]: Fetched all tasks successfully
+2025-06-12 04:48:54 [INFO]: Updated task with ID: 684a34df0d970b70db9c3ff9
+2025-06-12 04:48:56 [INFO]: Updated task with ID: 684a34df0d970b70db9c3ff9
+2025-06-12 04:48:58 [INFO]: Updated task with ID: 684a34df0d970b70db9c3ff9
+2025-06-12 04:48:59 [INFO]: Updated task with ID: 684a34df0d970b70db9c3ff9
+2025-06-12 04:53:59 [INFO]: Created a new task successfully
+2025-06-12 04:54:11 [INFO]: Created a new task successfully
+2025-06-12 05:00:19 [INFO]: Fetched all tasks successfully
+2025-06-12 05:00:24 [INFO]: Updated task with ID: 684a34e00d970b70db9c3ffb
+2025-06-12 05:02:01 [INFO]: Fetched all tasks successfully
+2025-06-12 05:04:34 [INFO]: Fetched all tasks successfully
+2025-06-12 05:04:49 [INFO]: Fetched all tasks successfully
+2025-06-12 05:05:04 [INFO]: Updated task with ID: 684a34df0d970b70db9c3ff9
+2025-06-12 05:05:33 [INFO]: Created a new task successfully
+2025-06-12 05:05:40 [INFO]: Updated task with ID: 684a520dccd3bfe415dca4fd
+2025-06-12 05:05:41 [INFO]: Updated task with ID: 684a520dccd3bfe415dca4fd
+2025-06-12 05:06:30 [INFO]: Updated task with ID: 684a34e00d970b70db9c3ffb
+2025-06-12 05:06:42 [INFO]: Fetched all tasks successfully
+2025-06-12 05:06:43 [INFO]: Fetched all tasks successfully
+2025-06-12 05:06:43 [INFO]: Fetched all tasks successfully
+2025-06-12 05:06:43 [INFO]: Fetched all tasks successfully
+2025-06-12 05:08:17 [INFO]: Connected to MongoDB Atlas
+2025-06-12 05:08:17 [INFO]: Cleared existing tasks
+2025-06-12 05:08:17 [INFO]: Seed data inserted successfully
+2025-06-12 05:08:17 [INFO]: Database connection closed
+2025-06-12 05:08:19 [INFO]: Server running on port 8080
+2025-06-12 05:08:33 [INFO]: Fetched all tasks successfully

@@ -6,10 +6,6 @@ const validateCreateTask = [
 		.optional()
 		.isString()
 		.withMessage('Description must be a string'),
-	body('dueDate')
-		.optional()
-		.isISO8601()
-		.withMessage('Due date must be a valid date'),
 	(req, res, next) => {
 		const errors = validationResult(req);
 		if (!errors.isEmpty()) {
@@ -26,10 +22,6 @@ const validateUpdateTask = [
 		.optional()
 		.isString()
 		.withMessage('Description must be a string'),
-	body('dueDate')
-		.optional()
-		.isISO8601()
-		.withMessage('Due date must be a valid date'),
 	(req, res, next) => {
 		const errors = validationResult(req);
 		if (!errors.isEmpty()) {

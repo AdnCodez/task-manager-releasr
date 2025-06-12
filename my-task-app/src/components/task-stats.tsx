@@ -5,6 +5,13 @@ import { CheckCircle, Clock, ListTodo, TrendingUp } from 'lucide-react';
 import { Task } from '@/types/task';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
+const iconBg = {
+  todo: 'from-sky-400 to-blue-600 bg-gradient-to-tr',
+  inProgress: 'from-amber-400 to-yellow-500 bg-gradient-to-tr',
+  done: 'from-emerald-500 to-green-700 bg-gradient-to-tr',
+  total: 'from-yellow-300 to-fuchsia-600 bg-gradient-to-tr',
+};
+
 interface TaskStatsProps {
   tasks: Task[];
 }
@@ -24,29 +31,29 @@ export function TaskStats({ tasks }: TaskStatsProps) {
       title: 'Total Tasks',
       value: stats.total,
       icon: ListTodo,
-      color: 'text-blue-600 dark:text-blue-400',
-      bgColor: 'bg-blue-50 dark:bg-blue-950',
+      color: 'text-fuchsia-200',
+      bg: iconBg.total,
     },
     {
       title: 'To Do',
       value: stats.todo,
       icon: Clock,
-      color: 'text-slate-600 dark:text-slate-400',
-      bgColor: 'bg-slate-50 dark:bg-slate-950',
+      color: 'text-sky-100',
+      bg: iconBg.todo,
     },
     {
       title: 'In Progress',
       value: stats.inProgress,
       icon: TrendingUp,
-      color: 'text-yellow-600 dark:text-yellow-400',
-      bgColor: 'bg-yellow-50 dark:bg-yellow-950',
+      color: 'text-amber-100',
+      bg: iconBg.inProgress,
     },
     {
       title: 'Completed',
       value: stats.done,
       icon: CheckCircle,
-      color: 'text-green-600 dark:text-green-400',
-      bgColor: 'bg-green-50 dark:bg-green-950',
+      color: 'text-emerald-100',
+      bg: iconBg.done,
     },
   ];
 
@@ -59,20 +66,20 @@ export function TaskStats({ tasks }: TaskStatsProps) {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: index * 0.1 }}
         >
-          <Card>
-            <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium text-muted-foreground">
+          <Card className="bg-zinc-900 border border-zinc-800 shadow-lg rounded-2xl overflow-hidden backdrop-blur-md">
+            <CardHeader className="flex flex-row items-center justify-between pb-2">
+              <CardTitle className="text-base font-semibold text-slate-50">
                 {stat.title}
               </CardTitle>
-              <div className={`p-2 rounded-lg ${stat.bgColor}`}>
-                <stat.icon className={`h-4 w-4 ${stat.color}`} />
+              <div className={`h-10 w-10 rounded-xl flex items-center justify-center shadow ${stat.bg}`}>
+                <stat.icon className={`h-6 w-6 ${stat.color}`} />
               </div>
             </CardHeader>
-            <CardContent>
-              <div className="text-2xl font-bold">{stat.value}</div>
+            <CardContent className="flex flex-row items-center space-x-2">
+              <div className="text-2xl font-bold text-slate-100">{stat.value}</div>
               {stat.title === 'Completed' && (
-                <p className="text-xs text-muted-foreground">
-                  {completionRate}% completion rate
+                <p className="text-slate-400 text-sm">
+                  ({completionRate}% completion rate)
                 </p>
               )}
             </CardContent>
