@@ -1,0 +1,9 @@
+2025-06-12 02:24:39 [INFO]: Connected to MongoDB Atlas
+2025-06-12 02:24:39 [INFO]: Cleared existing tasks
+2025-06-12 02:24:39 [INFO]: Seed data inserted successfully
+2025-06-12 02:24:39 [INFO]: Database connection closed
+2025-06-12 02:25:38 [INFO]: Server running on port 8080
+2025-06-12 02:25:38 [INFO]: Server running on port 8080
+2025-06-12 02:25:42 [INFO]: Server running on port 8080
+2025-06-12 02:25:55 [INFO]: Fetched all tasks successfully
+2025-06-12 02:27:04 [INFO]: Server running on port 8080
